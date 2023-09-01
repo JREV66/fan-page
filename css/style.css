@@ -1,0 +1,58 @@
+body{
+    background:linear-gradient(rgb(133, 104, 104), rgb(54, 45, 35));
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+h1{
+    color:rgb(255, 255, 255);
+}
+
+
+#facts-section h2{
+    text-decoration: underline;
+    color:whitesmoke;
+}
+
+#quotes-section h2{
+    text-decoration: underline;
+    color:whitesmoke;
+}
+
+#quotes-section blockquote{
+
+    color: whitesmoke;
+    font-style: italic;
+}
+
+#facts-section th{
+    text-align: center; 
+    text-decoration: underline;
+    color: whitesmoke;
+}
+
+#facts-section td{
+    text-align: center;
+    color: whitesmoke;
+}
+
+
+#links-section h2{
+    text-decoration: underline;
+    color:whitesmoke;
+
+}
+
+#links-section li{
+    color:whitesmoke;
+}
+
+footer{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
